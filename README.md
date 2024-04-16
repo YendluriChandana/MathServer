@@ -71,7 +71,7 @@ h1 {
 <body>
 <div class="edge">
     <div class="box">
-        <h1>Area of Surface</h1>
+        <h1>surface area of a Right Cylinder</h1>
         <h3> Yendluri Chandana (212223100063) </h3>
         <form method="POST">
             {% csrf_token %}
@@ -132,8 +132,7 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
-
-![alt text](<Screenshot 2024-04-08 223536.png>)
+![alt text](<Screenshot 2024-04-16 204516.png>)
 
 ## HOMEPAGE:
 ![alt text](<Screenshot 2024-04-08 222636.png>)
